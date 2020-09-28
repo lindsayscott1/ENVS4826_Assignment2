@@ -22,4 +22,8 @@ This paper looked at the spread of non native species, specifically earthworms, 
 Sites were chosen in the boreal forest of Northern Alberta, in mature deciduous or mixed hardwood stands that are adjacent to roads. At each site selected, quadrats were used and samples were sorted to determine the abundance of earthworms present both beside the road and into the forest.
 The statistical analysis performed involved looking at the results at a landscape level, and a local level and then the results were used to generate a spatial model of the distribution.
 
+## Results and Conclusion
+It was found that older roads were more likely to have earthworms, and they have spread farther compared to younger roads. As you can see below in Figure 1, the amount of earthworms found increased as the age of the road increased. 
+It was also found that earthworms were more likely to occur and have spread in areas that had higher human activity. This also supports the model done by the study which found that approximately 49% of suitable forest habitat will be occupied by earthworms in 50 years time.
+
 
