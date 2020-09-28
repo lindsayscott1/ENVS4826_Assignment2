@@ -9,9 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# ENVS 4826 Assignment 2
-## Lindsay Scott
-
 # Road age and its importance in earthworm invasion of northern boreal forests
 ## EK Cameron, EM Bayne
 ### A summary
