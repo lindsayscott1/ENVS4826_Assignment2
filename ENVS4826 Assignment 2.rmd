@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## EK Cameron, EM Bayne
 ### A summary
 
-### cite: Cameron, E. K., & Bayne, E. M. (2009). Road age and its importance in earthworm invasion of northern boreal forests. Journal of Applied Ecology, 46(1), 28-36.
+### cite: Cameron, E. K., & Bayne, E. M. (2009). Road age and its importance in earthworm invasion of northern boreal forests. Journal of Applied Ecology, 46(1), 28-36.  
 
 ## Introduction
 This paper looked at the spread of non native species, specifically earthworms, related to the age of roadways in the northern boreal forests of Alberta, Canada. The aims of this study were to determine whether or not earthworms were more likely to be present and farther spread at sites where roads have been there for a long time versus newly built roads. After looking at the relationship between earthworms and the age of the road, the data would then be used to create a spatial model to be used to predict the spread of earthworms over the next 50 years.
@@ -24,6 +24,8 @@ The statistical analysis performed involved looking at the results at a landscap
 
 ## Results and Conclusion
 It was found that older roads were more likely to have earthworms, and they have spread farther compared to younger roads. As you can see below in Figure 1, the amount of earthworms found increased as the age of the road increased. 
-It was also found that earthworms were more likely to occur and have spread in areas that had higher human activity. This also supports the model done by the study which found that approximately 49% of suitable forest habitat will be occupied by earthworms in 50 years time.
+It was also found that earthworms were more likely to occur and have spread in areas that had higher human activity. This also supports the model done by the study which found that approximately 49% of suitable forest habitat will be occupied by earthworms in 50 years time. All of the aims of this study were met.
 
-
+```{r echo=FALSE, fig.cap= "Figure 1: Number of earthworms present along roads. Older roads have a higher presence of earthworms."}
+plot(1:60, 1:60, xlab = "Age of road", ylab = "# of earthworms per quadrat")
+```
